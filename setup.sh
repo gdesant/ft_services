@@ -38,3 +38,4 @@ kubectl apply -f srcs/grafana/grafana.yaml
 printf "\e[0;32m[Done !]\e[0m\n"
 printf "\e[0;32m[dashboard enabled]\e[0m\n"
 minikube dashboard &
+printf "\e[0;32m[Running ...]\e[0m\n"
