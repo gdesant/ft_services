@@ -31,17 +31,20 @@ In this project you can find docker of multiples services :
 
 ## Run Locally
 
-Clone the project  
+Clone the project
+
 ~~~bash  
 git clone https://github.com/gdesant/ft_services.git
 ~~~
 
 Launch
+
 ~~~bash  
 ./setup.sh
 ~~~
 
-Dashboard 
+Dashboard
+
 ~~~bash  
 minikube dashboard
 ~~~
