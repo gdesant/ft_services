@@ -4,9 +4,9 @@
 
 # 🏫 ft_services
 
-This project is a introduction to Kubernetes.
+This project is an introduction to Kubernetes.
 
-The goal was to create a cluster of docker with differents service into them like Wordpress, PHPMyAdmin, Grafana, NGinx ... and allow them to comunicate with each other.
+The goal was to create a cluster of dockers with differents services into them like Wordpress, PHPMyAdmin, Grafana, NGinx ... and allow them to comunicate with each other.
 
 You can find the subject  for this project [here](https://github.com/gdesant/ft_services/blob/main/ft_services.subject.en.pdf).
 
